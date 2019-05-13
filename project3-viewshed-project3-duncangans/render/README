@@ -1,0 +1,24 @@
+
+render2d
+  Render a grid in 2 dimensions.
+  
+render3d
+  Render a grid in 3 dimensions, optionally with separate coloration.
+  
+grid_info
+  Read a grid and print basic info about it.
+  
+grid_diff
+  Compute and write the difference between two grids.
+  
+grid_simp
+  Compute and write a downsample simplification of a given grid.
+
+/*------------------------------------------------------------------*/
+
+  Bob PoFang Wei (c) 2009
+  boabawhales@gmail.com
+
+  Grid.h & Grid.c WERE MODIFIED SO THAT THEY CAN HANDLE float VALUES
+
+/*--------------------------------------------------------------------*/
